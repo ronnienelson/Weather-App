@@ -59,3 +59,14 @@ h1.temp{
     margin:0;
 }
 
+@media all 
+  and (max-device-width: 425px) {
+    .card{
+        
+        width: 100%;
+        max-width: 12em;
+        margin: 1em;
+    }
+
+}
+
