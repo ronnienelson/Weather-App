@@ -67,6 +67,11 @@ h1.temp{
         max-width: 12em;
         margin: 1em;
     }
+        input{
+        font-size: 80%;
+        width: calc(80%-100px);
+    }
+
 
 }
 
